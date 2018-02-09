@@ -1,4 +1,6 @@
 # Mathematical-graphs-and-Usages
-This project is concerned with the implementation of mathematical graphs and their usages.
-This project 
-Python project concluding the Python programming part of <a href="http://www.naya-college.co.il/" rel="nofollow">Naya college</a>
+1st Project in <a href="http://www.naya-college.co.il/courses/data-scientist-professional/" rel="nofollow">Data Science Professional course<a href="http://www.naya-college.co.il/" rel="nofollow">Naya college</a></a> 
+This project is concerned with the implementation of mathematical graphs and their usages using Python and Object-oriented programming 
+
+
+
